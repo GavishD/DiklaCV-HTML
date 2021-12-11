@@ -1,0 +1,16 @@
+body {
+	font-family: Ariel;
+	font-size: 20px;
+}
+
+.background-color {
+		color: solid blue;
+}
+
+.sallFont{
+		font-size: 20px;
+}
+
+#spacialStyle {
+		border: 2px solid blue
+}
